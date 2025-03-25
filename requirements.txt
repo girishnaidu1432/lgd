@@ -1,0 +1,7 @@
+streamlit==0.84.0
+langchain-community==0.0.19
+langchain==0.1.6
+langchain-openai==0.0.5
+langchain-experimental==0.0.50
+huggingface-hub==0.19.3
+faiss-cpu>=1.7.0
