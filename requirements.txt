@@ -7,3 +7,4 @@ huggingface-hub==0.19.3
 faiss-cpu>=1.7.0
 protobuf
 pypdf
+openai==0.28
